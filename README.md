@@ -10,23 +10,19 @@ This project is a simple emoji dictionary application built using React. Users c
 ## Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-
-bash
+1. Clone the repository:
 Copy code
 git clone https://github.com/MausamGaikwad/React-Emoji-Dictionary.git
-Navigate to the project directory:
 
-bash
+2. Navigate to the project directory:
 Copy code
 cd React-Emoji-Dictionary
-Install dependencies:
 
-bash
+3. Install dependencies:
 Copy code
 npm install
-Start the development server:
 
+4. Start the development server:
 bash
 Copy code
 npm start
