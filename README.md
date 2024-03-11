@@ -27,7 +27,7 @@ bash
 Copy code
 npm start
 ## Usage
-Once the development server is running, open your web browser and navigate to http://localhost:3000 to view the application. You can then explore various emojis and their meanings.
+Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the application. You can then explore various emojis and their meanings.
 
 ## Project Structure
 The project structure is as follows:
