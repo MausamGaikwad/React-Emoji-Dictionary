@@ -7,7 +7,7 @@ Usage
 Project Structure
 Dependencies
 License
-Installation
+## Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
@@ -30,10 +30,10 @@ Start the development server:
 bash
 Copy code
 npm start
-Usage
+## Usage
 Once the development server is running, open your web browser and navigate to http://localhost:3000 to view the application. You can then explore various emojis and their meanings.
 
-Project Structure
+## Project Structure
 The project structure is as follows:
 
 src/: Contains the source code for the application.
@@ -43,7 +43,7 @@ Entry.js: Component for rendering individual emoji entries.
 index.js: Entry point for the application.
 public/: Contains static assets and the HTML file for the application.
 index.html: HTML template for the application.
-Dependencies
+## Dependencies
 This project uses the following dependencies:
 
 react: JavaScript library for building user interfaces.
