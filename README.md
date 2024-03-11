@@ -1,4 +1,4 @@
-## React Emoji Dictionary
+# React Emoji Dictionary
 This project is a simple emoji dictionary application built using React. Users can explore various emojis along with their meanings.
 
 ## Table of Contents
