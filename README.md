@@ -20,12 +20,13 @@ Copy code
 
 3. Install dependencies:
 Copy code
-npm install
+`npm install`
 
 4. Start the development server:
-bash
 Copy code
-npm start
+
+`npm start`
+
 ## Usage
 Once the development server is running, open your web browser and navigate to `http://localhost:3000` to view the application. You can then explore various emojis and their meanings.
 
